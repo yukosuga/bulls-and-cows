@@ -63,7 +63,7 @@ const playGame = () => {
     };
     // main game
     console.clear();
-    console.log(chalk.green.bold("🔸🔹🐂 Welcome to the Bulls and Cows 🐄🔹🔸\n"));
+    console.log(chalk.green.bold("🔸🔹🐂 Welcome to Bulls and Cows 🐄🔹🔸\n"));
     console.log(chalk.bgWhiteBright.redBright(" Can you guess the secret 4-digit number?\n"));
     console.log(chalk.yellowBright(" 🎮 How to Play:"));
     console.log(chalk.whiteBright(`
